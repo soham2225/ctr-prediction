@@ -1,0 +1,17 @@
+{
+	"ulid": "01JXBYZCZPHA5493TZY250KVQ7",
+	"minTime": 1749514853334,
+	"maxTime": 1749520800000,
+	"stats": {
+		"numSamples": 25,
+		"numSeries": 5,
+		"numChunks": 5
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01JXBYZCZPHA5493TZY250KVQ7"
+		]
+	},
+	"version": 1
+}
