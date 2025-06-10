@@ -1,5 +1,5 @@
-tensorflow-cpu==2.11.0
-pandas
-scikit-learn
 flask
 gunicorn
+scikit-learn
+pandas
+tensorflow-cpu==2.10.0
